@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+    <style>
+    h1{
+        padding: 15px;
+        text-align:left;
+        color:white;
+        background:black;
+        font-size: 30px;
+    }
+    p0
+        {
+            font-size:x-large ;
+            font-style: italic;
+        }
+    h3
+        {
+            font-size: x-large;
+        }
+    body
+        {
+            font-size:x-large ;
+            font-style: italic;
+        }
+    </style>    
+<head>
+    <title>ENTERTAINEMT</title>
+</head>
+    <meta name="Keywords" content="What is entertainment?,Categories,Sports,film,Music,Dance,Comedy">
+    <body>
+        <h1>WHAT IS ENTERTAINEMT?</h1>
+        <p>
+            Entertainment is a form of activity that holds the attention and interest of an audience or gives pleasure and delight. 
+            It can be an idea or a task, but is more likely to be one of the activities or events that have developed over thousands of years specifically for the purpose of keeping an audience's attention.
+        </p>
+        <h1><b>Categories under Entertainment</b></h1>
+        <p>
+            <h3>1.SPORTS</h3>
+            <h3>2.FLIM</h3>
+            <h3>3.MUSIC</h3>
+            <h3>4.DANCE</h3>
+            <h3>5.COMEDY</h3>
+            
+        </p>
+        <h1>SPORTS:</h1>
+        <p>
+            Sport pertains to any form of competitive physical activity or game[1] that aims to use, maintain, or improve physical ability and skills while providing enjoyment to participants and, in some cases, entertainment to spectators.[2] Sports can, through casual or organized participation, improve one's physical health. Hundreds of sports exist, from those between single contestants, through to those with hundreds of simultaneous participants, either in teams or competing as individuals. In certain sports such as racing, many contestants may compete, simultaneously or consecutively, with one winner; in others, the contest (a match) is between two sides, each attempting to exceed the other. Some sports allow a "tie" or "draw", in which there is no single winner; others provide tie-breaking methods to ensure one winner and one loser. A number of contests may be arranged in a tournament producing a champion. Many sports leagues make an annual champion by arranging games in a regular sports season, followed in some cases by playoffs.
+        </p>
+        <h1>FLIM:</h1>
+        <p>
+            A film also called a movie, motion picture, moving picture, picture or photoplay is a work of visual art that simulates experiences and otherwise communicates ideas, stories, perceptions, feelings, beauty, or atmosphere through the use of moving images. These images are generally accompanied by sound and, more rarely, other sensory stimulations.[1] The word "cinema", short for cinematography, is often used to refer to filmmaking and the film industry, and to the art form that is the result of it.
+        </p>
+        <h1>MUSIC:</h1>
+        <p>
+            Music is generally defined as the art of arranging sound to create some combination of form, harmony, melody, rhythm or otherwise expressive content.[1][2][3] Exact definitions of music vary considerably around the world,[4] though it is an aspect of all human societies, a cultural universal.[5] While scholars agree that music is defined by a few specific elements, there is no consensus on their precise definitions.[6] The creation of music is commonly divided into musical composition, musical improvisation, and musical performance,[7] though the topic itself extends into academic disciplines, criticism, philosophy, and psychology. Music may be performed or improvised using a vast range of instruments, including the human voice.
+        </p>
+        <h1>DANCE:</h1>
+        <p>
+            Dance is a performing art form consisting of sequences of movement, either improvised or purposefully selected. This movement has aesthetic and often symbolic value.[nb 1] Dance can be categorized and described by its choreography, by its repertoire of movements, or by its historical period or place of origin.[4]
+            An important distinction is to be drawn between the contexts of theatrical and participatory dance,[5] although these two categories are not always completely separate; both may have special functions, whether social, ceremonial, competitive, erotic, martial, or sacred/liturgical. Other forms of human movement are sometimes said to have a dance-like quality, including martial arts, gymnastics, cheerleading, figure skating, synchronized swimming, marching bands, and many other forms of athletics.
+        </p>
+        <h1>COMEDY:</h1>
+        <p>
+            Comedy is a genre of fiction that consists of discourses or works intended to be humorous or amusing by inducing laughter, especially in theatre, film, stand-up comedy, television, radio, books, or any other entertainment medium. The term originated in ancient Greece: in Athenian democracy, the public opinion of voters was influenced by political satire performed by comic poets in theaters.[1] The theatrical genre of Greek comedy can be described as a dramatic performance pitting two groups, ages, genders, or societies against each other in an amusing agon or conflict. Northrop Frye depicted these two opposing sides as a "Society of Youth" and a "Society of the Old".[2] A revised view characterizes the essential agon of comedy as a struggle between a relatively powerless youth and the societal conventions posing obstacles to his hopes. In this struggle, the youth then becomes constrained by his lack of social authority, and is left with little choice but to resort to ruses which engender dramatic irony, which provokes laughter.[3]
+        </p>
+        <h1>IMPORTANCE OF ENTERTAINEMT</h1>
+        <p>
+            Entertainment is necessary for everyone, and anyone that says otherwise is ignorant. It might not seem apparent, but entertainment plays a very big role in ensuring that people live normal and happy lives. Over the years, with the introduction of better entertainment avenues, people have started consuming entertainment more. This is simply because of the importance that it holds. If you are wondering what these benefits are, here they are.
+        </p>
+        <h1>ADVANTAGES</h1>
+        <p>
+           <h3> Relives stress:</h3>
+If you get stress, one of the best treatments is to get a worthy distracRelives stresstion. Entertainment is one of the best distractions you can get. When you get quality entertainment, your mind thinks of other things, and releases endorphins, hormones that are responsible for feeling good. This is a better way to deal with stress, as it gives you some time off to relax and prepare your mind for recovery.
+
+<h3>Provides employment:</h3>
+The entertainment industry is one of the largest employer. From the street magician to the galaxy of stars we see on TV, they are all earning a living because of entertainment. It also plays a great role in fostering the economy in that a lot of tax is collected from the industry. This is one of the top reasons as to why it should be supported and allowed to thrive.
+
+<h3>Nurtures culture:</h3>
+You might not notice it, but a lot of human culture is modeled around entertainment. When you go for a date, most people might go to the movies—or at least in the 90’s, over the weekend you might meet with friends and watch a game together. This list could go on and on, but one thing that remains clear is that entertainment plays a great role in nurturing and maintaining culture.
+
+<h3>Promotes talent and creativity:</h3>
+Entertainment is one of the top industries thPromotes talent and creativityat focuses on promoting talent and creativity. It is all evident from the countless tech developments used in movies, and the talented acting that we get to watch on a daily basis. While it is important to focus on other formal industries, entertainment should get sufficient support, especially when it comes to recognizing talent and creativity.
+
+These are some of the benefits that entertainment has. Has seen, it does play a very important role in ensuring that we all get some piece of mind, a good aught, and help maintain our economy at the same time. The next time you go to entertain yourself, remember how important that is.
+        </p>
+        <h1>DISADVANTAGES</h1>
+        <p>
+            Although we can find the most advantage there are few demerits or the disadvantages of entertainment.
+The major disadvantages of the entertainment are listed as follows:
+<p>
+Children now a days who gives their most of the time on playing games for entertainment and this has damaged their eyes and spent their time of study.
+Many people are busy on entertainment and their time of work has been reduced day by day and thus all time they are just willing to get relaxed.
+People in different part of the world get bet on the entertainment and loss their properties. the major entertaining facility that is Gambling has become the key way to lose the property.
+In this way the entertainment has become the most that people are being lazy day by day.</p>
+
+Thus entertainment should be taken as one of the most advantageous rather than taking it as the disadvantage one.
+        </p>
+    </body>
+</html>
